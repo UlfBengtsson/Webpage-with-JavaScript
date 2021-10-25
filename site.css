@@ -1,0 +1,18 @@
+body {
+    margin: 20px;
+    background-color: cadetblue;
+}
+
+#result {
+    width: 150px;
+    height: 150px;
+    /*background-color: aquamarine;*/
+}
+
+.coffe {
+    background-color: brown;
+}
+
+.tree {
+    background-color: green;
+}
